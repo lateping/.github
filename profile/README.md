@@ -17,6 +17,8 @@ Know when a scheduled job doesn't run. Your job calls a URL when it finishes; if
 
 ## Repositories
 
+[lateping](https://github.com/lateping/lateping) is where to report bugs, request features and read the security policy. The service's source is private.
+
 [ping](https://github.com/lateping/ping) is our GitHub Action: one step pings a check when a workflow starts, succeeds or fails.
 
 ```yaml
